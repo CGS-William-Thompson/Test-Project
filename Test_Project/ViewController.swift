@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         
         print("hello")
         print("version")
+        print("test")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
