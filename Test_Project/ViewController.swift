@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("hello")
         print("version")
         print("test")
+        
+        print("AD PLS BUY THIS AD")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
