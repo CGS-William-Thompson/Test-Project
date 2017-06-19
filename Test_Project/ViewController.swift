@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         print("version")
         print("test")
         
+        print("AD PLS BUY THIS AD")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
